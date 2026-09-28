@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/fetchwasm",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Fetch URLs and wasm query parts with stable normalization.",
+  "bin": {
+    "fetchwasm": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/fetchwasm.git"
+  },
+  "homepage": "https://theworker02.github.io/fetchwasm/",
+  "keywords": [
+    "fetch",
+    "wasm",
+    "url",
+    "cli",
+    "toolkit"
+  ]
+}
